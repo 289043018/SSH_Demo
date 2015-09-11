@@ -1,0 +1,6 @@
+com\hand\dao\impl\UserDaoImpl.class
+com\hand\service\UserServiceI.class
+com\hand\service\impl\UserServiceImpl.class
+com\hand\model\User.class
+com\hand\action\TestAction.class
+com\hand\dao\UserDao.class
